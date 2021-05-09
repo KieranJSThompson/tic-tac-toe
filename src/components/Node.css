@@ -1,0 +1,20 @@
+.node {
+  margin: 1px 1px;
+  width: 100px;
+  height: 100px;
+  border: 1px solid black;
+  display: flex;
+}
+
+.node-text {
+  margin: auto;
+  font-size: 80px;
+}
+
+.X {
+  background-color: red;
+}
+
+.O {
+  background-color: lightblue;
+}

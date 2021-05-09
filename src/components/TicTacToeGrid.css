@@ -1,0 +1,8 @@
+.grid-wrapper {
+  width: 50%;
+  margin: auto;
+}
+
+.row-wrapper {
+  display: flex;
+}

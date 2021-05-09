@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/KieranJSThompson.github.io/tictactoe/static/css/main.90bb50c6.chunk.css",
-    "main.js": "/KieranJSThompson.github.io/tictactoe/static/js/main.ab69b878.chunk.js",
-    "main.js.map": "/KieranJSThompson.github.io/tictactoe/static/js/main.ab69b878.chunk.js.map",
-    "runtime-main.js": "/KieranJSThompson.github.io/tictactoe/static/js/runtime-main.d5a60707.js",
-    "runtime-main.js.map": "/KieranJSThompson.github.io/tictactoe/static/js/runtime-main.d5a60707.js.map",
-    "static/js/2.248f07e4.chunk.js": "/KieranJSThompson.github.io/tictactoe/static/js/2.248f07e4.chunk.js",
-    "static/js/2.248f07e4.chunk.js.map": "/KieranJSThompson.github.io/tictactoe/static/js/2.248f07e4.chunk.js.map",
-    "static/js/3.96bb1707.chunk.js": "/KieranJSThompson.github.io/tictactoe/static/js/3.96bb1707.chunk.js",
-    "static/js/3.96bb1707.chunk.js.map": "/KieranJSThompson.github.io/tictactoe/static/js/3.96bb1707.chunk.js.map",
-    "index.html": "/KieranJSThompson.github.io/tictactoe/index.html",
-    "static/css/main.90bb50c6.chunk.css.map": "/KieranJSThompson.github.io/tictactoe/static/css/main.90bb50c6.chunk.css.map",
-    "static/js/2.248f07e4.chunk.js.LICENSE.txt": "/KieranJSThompson.github.io/tictactoe/static/js/2.248f07e4.chunk.js.LICENSE.txt"
+    "main.css": "/tictactoe/static/css/main.90bb50c6.chunk.css",
+    "main.js": "/tictactoe/static/js/main.ab69b878.chunk.js",
+    "main.js.map": "/tictactoe/static/js/main.ab69b878.chunk.js.map",
+    "runtime-main.js": "/tictactoe/static/js/runtime-main.8dd80724.js",
+    "runtime-main.js.map": "/tictactoe/static/js/runtime-main.8dd80724.js.map",
+    "static/js/2.248f07e4.chunk.js": "/tictactoe/static/js/2.248f07e4.chunk.js",
+    "static/js/2.248f07e4.chunk.js.map": "/tictactoe/static/js/2.248f07e4.chunk.js.map",
+    "static/js/3.96bb1707.chunk.js": "/tictactoe/static/js/3.96bb1707.chunk.js",
+    "static/js/3.96bb1707.chunk.js.map": "/tictactoe/static/js/3.96bb1707.chunk.js.map",
+    "index.html": "/tictactoe/index.html",
+    "static/css/main.90bb50c6.chunk.css.map": "/tictactoe/static/css/main.90bb50c6.chunk.css.map",
+    "static/js/2.248f07e4.chunk.js.LICENSE.txt": "/tictactoe/static/js/2.248f07e4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d5a60707.js",
+    "static/js/runtime-main.8dd80724.js",
     "static/js/2.248f07e4.chunk.js",
     "static/css/main.90bb50c6.chunk.css",
     "static/js/main.ab69b878.chunk.js"
